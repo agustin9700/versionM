@@ -1,0 +1,10 @@
+@import url(../css/head.css);
+@import url(../css/home.css);
+
+body{
+    background-image: url("../images/bg-2.png");
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
