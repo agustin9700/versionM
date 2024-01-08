@@ -13,6 +13,8 @@ app.get("/",function(req,res){
     res.sendFile(ruta)
 })
 
+
+
 app.listen(port,function(){
     console.log("server Prendido")
 }
