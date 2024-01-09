@@ -29,7 +29,7 @@
     border-radius: 0.4rem; 
 } 
 
-
+/*VERSION DESKTOP*/
 @media only screen and (min-width: 600px){
     .header-home {
         background-color: #EF4C27;
