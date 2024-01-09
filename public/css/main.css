@@ -57,10 +57,11 @@
     }
     
     .seccion-productos {
-        width: 65%;
-        background-color: white;
-        margin-top: 1.5rem;
-        height: 100%;
+        width: 64%;
+    background-color: white;
+    margin-top: 1.5rem;
+    height: 100%;
+    margin-left: 1rem;
     }
     
     .productos {
